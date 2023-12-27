@@ -1,0 +1,2 @@
+# krC
+Kernighan Ritchie problems
